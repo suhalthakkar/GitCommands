@@ -33,4 +33,4 @@
 
 ### 6. Deploy to Production:
 - Deploy the `main` branch to production (this step depends on your deployment process).
-./deploy.sh
+- ./deploy.sh
