@@ -8,13 +8,13 @@
 ## Steps and Git CLI Commands:
 
 ### 1. Create a Feature Branch:
-   git checkout develop
-   git checkout -b feature/my-feature
+git checkout develop
+git checkout -b feature/my-feature
 
 ### 2. Work on the Feature:
-   git add .
-   git commit -m "Add new feature"
-   git push origin feature/my-feature
+git add .
+git commit -m "Add new feature"
+git push origin feature/my-feature
 
 ### 3. Merge Feature into `develop`
    git checkout develop
